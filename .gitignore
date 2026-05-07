@@ -50,3 +50,4 @@ obj3/
 /.claude/settings.local.json
 /CLAUDE.md
 *.code-workspace
+gitsync.sh
